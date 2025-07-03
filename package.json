@@ -1,0 +1,27 @@
+{
+  "name": "my-github-action-project-lab8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panhapanha-kskt/my-github-action-project-lab8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panhapanha-kskt/my-github-action-project-lab8/issues"
+  },
+  "homepage": "https://github.com/panhapanha-kskt/my-github-action-project-lab8#readme",
+  "dependencies": {
+    "chai": "^4.5.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^11.7.1"
+  }
+}
